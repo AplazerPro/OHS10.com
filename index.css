@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(lightgreen, lightblue);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#b1e{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    font-size: 20px;
+    border-style:;
+    border-radius: 7px;
+    border-spacing: 3px;   
+}
+#b1{
+    padding-right: 450px;
+}
+#b2{
+    padding-right: 530px;
+}
